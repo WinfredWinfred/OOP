@@ -1,1 +1,1 @@
-# This file contains concept about object oriented programming
+# This file contains concepts about object oriented programming
